@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    margin: 100px ;
+}
+h1{
+    text-align: center;
+    margin: 30px ;
+}
+#container{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: teal;
+}
+.input-div{
+    font-size: 25px;
+    margin: 20px;
+    text-align: center;
+}
+.inp{
+    padding: 10px;
+    font-size: 25px;
+    width: 250px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+}
+
